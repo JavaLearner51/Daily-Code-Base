@@ -25,8 +25,6 @@ Looking forward to your contributions 😄
 
 ## Code of Conduct
 
-We have a slack community for our initiatives, you all are welcome to join it: http://codetoexpress.tech/join/
-
 ### Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
