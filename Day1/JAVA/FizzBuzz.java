@@ -13,7 +13,7 @@ public class FizzBuzz {
 		int i=scn.nextInt();
 		for(int no=1;no<i;no++)
 		{
-			if(no%15==0)
+			if(no%5==0 && no%3==0)
 				System.out.print("FizzBuzz ");
 			else if(no%5==0)
 				System.out.print("Buzz ");

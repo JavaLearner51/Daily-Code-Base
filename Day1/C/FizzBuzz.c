@@ -14,7 +14,7 @@ printf("Enter The No. Of Terms To Be Printed");
 scanf("%d",&i)	;
  for(no=1;no<i;no++)
  {
- if(no%15==0)
+ if(no%5==0 && no%3==0)
  printf("FizzBuzz ");
  else if(no%5==0)
  printf("Buzz ");
