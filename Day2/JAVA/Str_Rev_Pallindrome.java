@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+  /**
+        * @author: Vinay-Tare
+        * @date: 21/09/2019
+ **/
 public class Str_Rev_Pallindrome 
 {
     static String Rev_Str(String str)
