@@ -1,3 +1,7 @@
+ /**
+        * @author: VIJAYBORATE1999
+        * @date: 20/09/2019
+  **/
 import java.util.Scanner;
 public class Fizzbuzz 
 {
