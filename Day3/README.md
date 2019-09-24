@@ -20,5 +20,5 @@ The hamming distance between
 - 2173896 and 2233796 is 3
 ```
 
-#Why Hamming Distance?
+# Why Hamming Distance?
 The #1 reason for not being successful is inconsistency, and it is a common trend that people start something and on give up on the third day itself, and one of the major reasons behind that is that they find it difficult to continue.  So, to keep everyone (who is following the DailyCodes challenge) consistent, I have decided to keep today's question very simple and straightforward.
