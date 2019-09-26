@@ -8,11 +8,12 @@ public class Hamming_Distance {
 	String s1,s2;
 	int distance;
 	Hamming_Distance()
-	{	System.out.println("====== HAMMING DISTANCE FINDER ======");
+	{	
+        System.out.println("====== HAMMING DISTANCE FINDER ======");
 		Scanner scn=new Scanner(System.in);
-		System.out.println("Enter The 1st String");
+		System.out.println("Enter The 1st String:");
 		s1=scn.next();
-		System.out.println("Enter The 2nd String");
+		System.out.println("Enter The 2nd String:");
 		s2=scn.next();
 	}
 	int H_D()
@@ -27,6 +28,6 @@ public class Hamming_Distance {
 	public static void main(String ar[])
 	{
 		Hamming_Distance obj=new Hamming_Distance();
-		System.out.println(obj.H_D());
+		System.out.println("Hamming Distance Between The 2 Strings "+obj.s1+" & "+obj.s2+" Is: "+obj.H_D());
 	}
 }
